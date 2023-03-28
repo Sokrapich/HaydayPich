@@ -1,28 +1,67 @@
-
 body
 {
-  font-size: 30pt;
+  font-size: 20pt;
  background-color:#ffff11;
- 
  }
-
 .container{
   text-align:center;
-  margin-top:100px;
+  margin-top:30px;
 }
 .btn{
-  border:5px solid #3498bd;
+  border:5px solid #808080;
    padding:10px 20px;
-   font-size:60px;
+   font-size:50px;
    font-family:"montserrat"
    margin:10px;
-   background-color:#FFA500
+   background-color:#11ff00;
+   box-shadow:5px 8px black;
+   text-shadow:3px 4px #000000;
 }
 .btn1,.btn2,.btn3,.btn4{
-  color:#A52A2A;
-  border-radius:100px;
+  color:White;
+  border-radius:30px;
   
 }
 .apk1{
   color:#008000;
+  text-shadow:3px 4px #000000;
+  text-align:center;
+   margin-top:30px;
 }
+.pichapk{
+  text-align:center;
+  margin-top:30px;
+}
+.btnapk{
+  border:5px solid #808080;
+   padding:10px 20px;
+   font-size:30px;
+   font-family:"montserrat"
+   margin:20px;
+   background-color:#11ff00;
+   box-shadow:5px 8px black;
+   text-shadow:2px 2px #000000;
+   margin-top:50px;
+}
+.btn1apk,.btn2apk,.btn3apk,.btn4apk,.btn5apk{
+  color:White;
+  border-radius:20px;
+ }
+ .subscribe {
+   color:Green;
+   text-shadow:1px 1px black;
+ }
+  .grup {
+   color:Green;
+   text-shadow:1px 1px black;
+ }
+ .farm{
+   color:Red;
+   text-shadow:3px 4px #ffffff;
+   text-align:center;
+   margin-top:30px;
+ }
+ .imgfarm{
+   box-shadow:10px 10px black;
+   margin-top:10px;
+ }
