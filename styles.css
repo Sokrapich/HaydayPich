@@ -43,7 +43,7 @@ body
    text-shadow:2px 2px #000000;
    margin-top:50px;
 }
-.btn1apk,.btn2apk,.btn3apk,.btn4apk,.btn5apk{
+.btn1apk,.btn2apk,.btn3apk,.btn4apk,.btn5apk,.btn6apk{
   color:White;
   border-radius:20px;
  }
@@ -62,6 +62,10 @@ body
    margin-top:30px;
  }
  .imgfarm{
+   box-shadow:10px 10px black;
+   margin-top:10px;
+ }
+ .freetool{
    box-shadow:10px 10px black;
    margin-top:10px;
  }
