@@ -7,20 +7,25 @@ body
   text-align:center;
   margin-top:10px;
   box-shadow:10px 10px #000;
+  border-radius:20px;
 }
 .img1,.img2{
   box-shadow:10px 10px #000;
+  border-radius:20px;
 }
 .text1{
   color:BlueViolet;
-  text-shadow:3px 4px #FF00FF;
+  text-shadow:2px 2px #FF00FF;
+  font-size:50px;
+  border-radius:15px;
+  box-shadow:5px 5px black;
 }
 .btn1{
   margin-right:150px;
   font-size:100px;
   color:Purple;
-  
   box-shadow:8px 8px #FF00FF;
+  border-radius:15px;
 }
 .text2{
   font-size:50px;
